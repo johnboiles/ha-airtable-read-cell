@@ -1,0 +1,11 @@
+{
+    "domain": "airtable_read_cell",
+    "name": "Airtable Read Cell",
+    "documentation": "",
+    "issue_tracker": "",
+    "dependencies": [],
+    "codeowners": ["@johnboiles"],
+    "requirements": ["aiohttp"],
+    "version": "0.0.1"
+  }
+  
